@@ -1,10 +1,10 @@
 # imersao-dados-python
-📊 Dashboard de Análise de Salários na Área de Dados
+## 📊 Dashboard de Análise de Salários na Área de Dados
 
 💡 Descubra tendências salariais na área de dados com um dashboard interativo em Python, criado durante a Imersão de Dados da Alura.
 🔗 Acesse o dashboard online: imersaodados.streamlit.app
 
-📌 Sobre o projeto
+### 📌 Sobre o projeto
 Este projeto analisa informações salariais de diferentes cargos e níveis de experiência na área de dados.
 O objetivo é fornecer insights rápidos e claros para profissionais, recrutadores e empresas, explorando:
 
@@ -16,10 +16,10 @@ O objetivo é fornecer insights rápidos e claros para profissionais, recrutador
 
 ✅ Visualizações interativas para análise personalizada
 
-🖼 Prévia do Dashboard
+### 🖼 Prévia do Dashboard
 <img width="1914" height="904" alt="image" src="https://github.com/user-attachments/assets/02bc1e8d-5ebe-481b-837b-387ede009209" />
 
-🚀 Funcionalidades
+### 🚀 Funcionalidades
 
 📊 Análise exploratória de dados com Pandas e NumPy
 
@@ -31,7 +31,7 @@ O objetivo é fornecer insights rápidos e claros para profissionais, recrutador
 
 📈 Insights prontos para tomada de decisão
 
-🛠 Tecnologias Utilizadas
+### 🛠 Tecnologias Utilizadas
 Python: Linguagem principal
 Pandas:	Manipulação e análise de dados
 NumPy:	Cálculos numéricos
@@ -39,7 +39,7 @@ Plotly:	Visualizações interativas
 Seaborn:	Visualizações estatísticas
 Streamlit:	Criação do dashboard
 
-📂 Como executar o projeto
+### 📂 Como executar o projeto
 # Clone o repositório
 git clone https://github.com/marcela-prebay/imersao-dados-python.git
 
@@ -52,6 +52,6 @@ pip install -r requirements.txt
 # Execute o dashboard
 streamlit run app.py
 
-🙌 Créditos
+### 🙌 Créditos
 
 Projeto desenvolvido durante a Imersão de Dados da Alura.
